@@ -16,7 +16,7 @@ function switchItUp(number){
 
     return ["Zero","One","Two","Three","Four","Five","Six","Seven","Eight","Nine"][n]
 
-    var words = ['Zero', 'One', 'Two', 'Three', 'Four', 'Five', 'Six', 'Seven', 'Eight', 'Nine'];
+    let words = ['Zero', 'One', 'Two', 'Three', 'Four', 'Five', 'Six', 'Seven', 'Eight', 'Nine'];
   return words[number];
 
   
