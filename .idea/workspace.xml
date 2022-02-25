@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="676558bc-9372-4407-8573-fae0367d62ca" name="Changes" comment="basicmathematic-eval()">
-      <change afterPath="$PROJECT_DIR$/doubledMap.js" afterDir="false" />
+    <list default="true" id="676558bc-9372-4407-8573-fae0367d62ca" name="Changes" comment="mapdoubled">
+      <change afterPath="$PROJECT_DIR$/reversedWords.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +60,7 @@
       <updated>1645347897063</updated>
       <workItem from="1645347899067" duration="922000" />
       <workItem from="1645602019093" duration="1331000" />
-      <workItem from="1645769965999" duration="325000" />
+      <workItem from="1645769965999" duration="1192000" />
     </task>
     <task id="LOCAL-00001" summary="0-9">
       <created>1645348189301</created>
@@ -82,7 +83,21 @@
       <option name="project" value="LOCAL" />
       <updated>1645602722477</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="basicmathematic-eval()">
+      <created>1645771043952</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1645771043952</updated>
+    </task>
+    <task id="LOCAL-00005" summary="mapdoubled">
+      <created>1645771067569</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1645771067569</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -102,6 +117,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="0-9" />
     <MESSAGE value="basicmathematic-eval()" />
-    <option name="LAST_COMMIT_MESSAGE" value="basicmathematic-eval()" />
+    <MESSAGE value="mapdoubled" />
+    <option name="LAST_COMMIT_MESSAGE" value="mapdoubled" />
   </component>
 </project>
