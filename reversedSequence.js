@@ -5,6 +5,6 @@ const reverseSeq = n => {
     }
     return arr
 
-    // return console.log(Array(n).fill(0).map((e, i) => n - i ));
+    return console.log(Array(n).fill(0).map((e, i) => n - i ));
 };
 reverseSeq(5)
