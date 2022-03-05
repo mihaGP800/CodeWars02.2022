@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="676558bc-9372-4407-8573-fae0367d62ca" name="Changes" comment="mapdoubled">
-      <change afterPath="$PROJECT_DIR$/reversedWords.js" afterDir="false" />
+    <list default="true" id="676558bc-9372-4407-8573-fae0367d62ca" name="Changes" comment="Greeting">
+      <change afterPath="$PROJECT_DIR$/ArrayPlusArray.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CountOfPositivesSumOfNegatives.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/findOnes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reversedSequence.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,21 +35,33 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../TODOLIST/todolist_01" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Node.js.DasicMathematic.js">
+  <component name="RunManager" selected="Node.js.reversedSequence.js">
+    <configuration name="ClockShow.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/ClockShow.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="CountOfPositivesSumOfNegatives.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/CountOfPositivesSumOfNegatives.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
     <configuration name="DasicMathematic.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/DasicMathematic.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="InfertValues.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/InfertValues.js" working-dir="$PROJECT_DIR$">
+    <configuration name="findOnes.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/findOnes.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="reversedSequence.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/reversedSequence.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.reversedSequence.js" />
+        <item itemvalue="Node.js.findOnes.js" />
+        <item itemvalue="Node.js.CountOfPositivesSumOfNegatives.js" />
+        <item itemvalue="Node.js.ClockShow.js" />
         <item itemvalue="Node.js.DasicMathematic.js" />
-        <item itemvalue="Node.js.InfertValues.js" />
       </list>
     </recent_temporary>
   </component>
@@ -60,7 +75,13 @@
       <updated>1645347897063</updated>
       <workItem from="1645347899067" duration="922000" />
       <workItem from="1645602019093" duration="1331000" />
-      <workItem from="1645769965999" duration="1192000" />
+      <workItem from="1645769965999" duration="1374000" />
+      <workItem from="1645862205865" duration="2762000" />
+      <workItem from="1645945054174" duration="1686000" />
+      <workItem from="1646115624528" duration="5390000" />
+      <workItem from="1646123656949" duration="1272000" />
+      <workItem from="1646375193393" duration="1613000" />
+      <workItem from="1646463767715" duration="1180000" />
     </task>
     <task id="LOCAL-00001" summary="0-9">
       <created>1645348189301</created>
@@ -97,7 +118,28 @@
       <option name="project" value="LOCAL" />
       <updated>1645771067569</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="reversedWords">
+      <created>1645775029014</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1645775029014</updated>
+    </task>
+    <task id="LOCAL-00007" summary="ClockShow">
+      <created>1645864209348</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1645864209348</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Greeting">
+      <created>1645948321407</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1645948321407</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -118,6 +160,9 @@
     <MESSAGE value="0-9" />
     <MESSAGE value="basicmathematic-eval()" />
     <MESSAGE value="mapdoubled" />
-    <option name="LAST_COMMIT_MESSAGE" value="mapdoubled" />
+    <MESSAGE value="reversedWords" />
+    <MESSAGE value="ClockShow" />
+    <MESSAGE value="Greeting" />
+    <option name="LAST_COMMIT_MESSAGE" value="Greeting" />
   </component>
 </project>
