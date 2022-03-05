@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="676558bc-9372-4407-8573-fae0367d62ca" name="Changes" comment="Revert &quot;Add files via upload&quot;&#10;&#10;This reverts commit 6bff727e">
+    <list default="true" id="676558bc-9372-4407-8573-fae0367d62ca" name="Changes" comment="test2.2">
+      <change afterPath="$PROJECT_DIR$/NEW.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ArrayPlusArray.js" beforeDir="false" afterPath="$PROJECT_DIR$/ArrayPlusArray.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reversedSequence.js" beforeDir="false" afterPath="$PROJECT_DIR$/reversedSequence.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,7 +20,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="05.03" />
+        <entry key="$PROJECT_DIR$" value="02.2022" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -151,7 +150,21 @@
       <option name="project" value="LOCAL" />
       <updated>1646482195880</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="test2.1">
+      <created>1646484401154</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1646484401154</updated>
+    </task>
+    <task id="LOCAL-00011" summary="test2.2">
+      <created>1646484543850</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1646484543850</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -162,19 +175,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="master" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>
@@ -189,6 +190,8 @@
     <MESSAGE value="Greeting" />
     <MESSAGE value="test" />
     <MESSAGE value="Revert &quot;Add files via upload&quot;&#10;&#10;This reverts commit 6bff727e" />
-    <option name="LAST_COMMIT_MESSAGE" value="Revert &quot;Add files via upload&quot;&#10;&#10;This reverts commit 6bff727e" />
+    <MESSAGE value="test2.1" />
+    <MESSAGE value="test2.2" />
+    <option name="LAST_COMMIT_MESSAGE" value="test2.2" />
   </component>
 </project>

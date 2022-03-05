@@ -1,0 +1,158 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"676558bc-9372-4407-8573-fae0367d62ca\" name=\"Changes\" comment=\"mapdoubled\">\r\n      <change afterPath=\"$PROJECT_DIR$/reversedWords.js\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"JavaScript File\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"MarkdownSettingsMigration\">\r\n    <option name=\"stateVersion\" value=\"1\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"25MrelFIAXYqZfO9BfoKLMaNtyZ\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">\r\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\r\n    <property name=\"RunOnceActivity.ShowReadmeOnStart\" value=\"true\" />\r\n    <property name=\"WebServerToolWindowFactoryState\" value=\"false\" />\r\n    <property name=\"last_opened_file_path\" value=\"$PROJECT_DIR$\" />\r\n    <property name=\"nodejs_package_manager_path\" value=\"npm\" />\r\n    <property name=\"vue.rearranger.settings.migration\" value=\"true\" />\r\n  </component>\r\n  <component name=\"RunManager\" selected=\"Node.js.DasicMathematic.js\">\r\n    <configuration name=\"DasicMathematic.js\" type=\"NodeJSConfigurationType\" temporary=\"true\" nameIsGenerated=\"true\" path-to-js-file=\"$PROJECT_DIR$/DasicMathematic.js\" working-dir=\"$PROJECT_DIR$\">\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"InfertValues.js\" type=\"NodeJSConfigurationType\" temporary=\"true\" nameIsGenerated=\"true\" path-to-js-file=\"$PROJECT_DIR$/InfertValues.js\" working-dir=\"$PROJECT_DIR$\">\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"Node.js.DasicMathematic.js\" />\r\n        <item itemvalue=\"Node.js.InfertValues.js\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"676558bc-9372-4407-8573-fae0367d62ca\" name=\"Changes\" comment=\"\" />\r\n      <created>1645347897063</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1645347897063</updated>\r\n      <workItem from=\"1645347899067\" duration=\"922000\" />\r\n      <workItem from=\"1645602019093\" duration=\"1331000\" />\r\n      <workItem from=\"1645769965999\" duration=\"1192000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"0-9\">\r\n      <created>1645348189301</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1645348189301</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"0-9\">\r\n      <created>1645348665362</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1645348665362</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"basicmathematic-eval()\">\r\n      <created>1645602722477</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1645602722477</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"basicmathematic-eval()\">\r\n      <created>1645771043952</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1645771043952</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00005\" summary=\"mapdoubled\">\r\n      <created>1645771067569</created>\r\n      <option name=\"number\" value=\"00005\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1645771067569</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"6\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"0-9\" />\r\n    <MESSAGE value=\"basicmathematic-eval()\" />\r\n    <MESSAGE value=\"mapdoubled\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"mapdoubled\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 6bff727e70845de3b244408d39ce101a90253026)
++++ b/.idea/workspace.xml	(date 1646484279649)
+@@ -1,9 +1,10 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+   <component name="ChangeListManager">
+-    <list default="true" id="676558bc-9372-4407-8573-fae0367d62ca" name="Changes" comment="mapdoubled">
+-      <change afterPath="$PROJECT_DIR$/reversedWords.js" afterDir="false" />
++    <list default="true" id="676558bc-9372-4407-8573-fae0367d62ca" name="Changes" comment="Revert &quot;Add files via upload&quot;&#10;&#10;This reverts commit 6bff727e">
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/ArrayPlusArray.js" beforeDir="false" afterPath="$PROJECT_DIR$/ArrayPlusArray.js" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/reversedSequence.js" beforeDir="false" afterPath="$PROJECT_DIR$/reversedSequence.js" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -18,7 +19,13 @@
+     </option>
+   </component>
+   <component name="Git.Settings">
++    <option name="RECENT_BRANCH_BY_REPOSITORY">
++      <map>
++        <entry key="$PROJECT_DIR$" value="05.03" />
++      </map>
++    </option>
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
++    <option name="RESET_MODE" value="MIXED" />
+   </component>
+   <component name="MarkdownSettingsMigration">
+     <option name="stateVersion" value="1" />
+@@ -36,17 +43,29 @@
+     <property name="nodejs_package_manager_path" value="npm" />
+     <property name="vue.rearranger.settings.migration" value="true" />
+   </component>
+-  <component name="RunManager" selected="Node.js.DasicMathematic.js">
++  <component name="RunManager" selected="Node.js.reversedSequence.js">
++    <configuration name="ClockShow.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/ClockShow.js" working-dir="$PROJECT_DIR$">
++      <method v="2" />
++    </configuration>
++    <configuration name="CountOfPositivesSumOfNegatives.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/CountOfPositivesSumOfNegatives.js" working-dir="$PROJECT_DIR$">
++      <method v="2" />
++    </configuration>
+     <configuration name="DasicMathematic.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/DasicMathematic.js" working-dir="$PROJECT_DIR$">
+       <method v="2" />
+     </configuration>
+-    <configuration name="InfertValues.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/InfertValues.js" working-dir="$PROJECT_DIR$">
++    <configuration name="findOnes.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/findOnes.js" working-dir="$PROJECT_DIR$">
++      <method v="2" />
++    </configuration>
++    <configuration name="reversedSequence.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/reversedSequence.js" working-dir="$PROJECT_DIR$">
+       <method v="2" />
+     </configuration>
+     <recent_temporary>
+       <list>
++        <item itemvalue="Node.js.reversedSequence.js" />
++        <item itemvalue="Node.js.findOnes.js" />
+         <item itemvalue="Node.js.DasicMathematic.js" />
+-        <item itemvalue="Node.js.InfertValues.js" />
++        <item itemvalue="Node.js.CountOfPositivesSumOfNegatives.js" />
++        <item itemvalue="Node.js.ClockShow.js" />
+       </list>
+     </recent_temporary>
+   </component>
+@@ -60,7 +79,14 @@
+       <updated>1645347897063</updated>
+       <workItem from="1645347899067" duration="922000" />
+       <workItem from="1645602019093" duration="1331000" />
+-      <workItem from="1645769965999" duration="1192000" />
++      <workItem from="1645769965999" duration="1374000" />
++      <workItem from="1645862205865" duration="2762000" />
++      <workItem from="1645945054174" duration="1686000" />
++      <workItem from="1646115624528" duration="5390000" />
++      <workItem from="1646123656949" duration="1272000" />
++      <workItem from="1646375193393" duration="1613000" />
++      <workItem from="1646463767715" duration="1180000" />
++      <workItem from="1646482507110" duration="302000" />
+     </task>
+     <task id="LOCAL-00001" summary="0-9">
+       <created>1645348189301</created>
+@@ -97,7 +123,35 @@
+       <option name="project" value="LOCAL" />
+       <updated>1645771067569</updated>
+     </task>
+-    <option name="localTasksCounter" value="6" />
++    <task id="LOCAL-00006" summary="reversedWords">
++      <created>1645775029014</created>
++      <option name="number" value="00006" />
++      <option name="presentableId" value="LOCAL-00006" />
++      <option name="project" value="LOCAL" />
++      <updated>1645775029014</updated>
++    </task>
++    <task id="LOCAL-00007" summary="ClockShow">
++      <created>1645864209348</created>
++      <option name="number" value="00007" />
++      <option name="presentableId" value="LOCAL-00007" />
++      <option name="project" value="LOCAL" />
++      <updated>1645864209348</updated>
++    </task>
++    <task id="LOCAL-00008" summary="Greeting">
++      <created>1645948321407</created>
++      <option name="number" value="00008" />
++      <option name="presentableId" value="LOCAL-00008" />
++      <option name="project" value="LOCAL" />
++      <updated>1645948321407</updated>
++    </task>
++    <task id="LOCAL-00009" summary="test">
++      <created>1646482195880</created>
++      <option name="number" value="00009" />
++      <option name="presentableId" value="LOCAL-00009" />
++      <option name="project" value="LOCAL" />
++      <updated>1646482195880</updated>
++    </task>
++    <option name="localTasksCounter" value="10" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -108,7 +162,19 @@
+       <map>
+         <entry key="MAIN">
+           <value>
+-            <State />
++            <State>
++              <option name="FILTERS">
++                <map>
++                  <entry key="branch">
++                    <value>
++                      <list>
++                        <option value="master" />
++                      </list>
++                    </value>
++                  </entry>
++                </map>
++              </option>
++            </State>
+           </value>
+         </entry>
+       </map>
+@@ -118,6 +184,11 @@
+     <MESSAGE value="0-9" />
+     <MESSAGE value="basicmathematic-eval()" />
+     <MESSAGE value="mapdoubled" />
+-    <option name="LAST_COMMIT_MESSAGE" value="mapdoubled" />
++    <MESSAGE value="reversedWords" />
++    <MESSAGE value="ClockShow" />
++    <MESSAGE value="Greeting" />
++    <MESSAGE value="test" />
++    <MESSAGE value="Revert &quot;Add files via upload&quot;&#10;&#10;This reverts commit 6bff727e" />
++    <option name="LAST_COMMIT_MESSAGE" value="Revert &quot;Add files via upload&quot;&#10;&#10;This reverts commit 6bff727e" />
+   </component>
+ </project>
+\ No newline at end of file
