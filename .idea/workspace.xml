@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="676558bc-9372-4407-8573-fae0367d62ca" name="Changes" comment="Greeting">
-      <change afterPath="$PROJECT_DIR$/ArrayPlusArray.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CountOfPositivesSumOfNegatives.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/findOnes.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reversedSequence.js" afterDir="false" />
+    <list default="true" id="676558bc-9372-4407-8573-fae0367d62ca" name="Changes" comment="Revert &quot;Add files via upload&quot;&#10;&#10;This reverts commit 6bff727e">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayPlusArray.js" beforeDir="false" afterPath="$PROJECT_DIR$/ArrayPlusArray.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reversedSequence.js" beforeDir="false" afterPath="$PROJECT_DIR$/reversedSequence.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,7 +19,13 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="05.03" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -35,7 +39,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../TODOLIST/todolist_01" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -59,9 +63,9 @@
       <list>
         <item itemvalue="Node.js.reversedSequence.js" />
         <item itemvalue="Node.js.findOnes.js" />
+        <item itemvalue="Node.js.DasicMathematic.js" />
         <item itemvalue="Node.js.CountOfPositivesSumOfNegatives.js" />
         <item itemvalue="Node.js.ClockShow.js" />
-        <item itemvalue="Node.js.DasicMathematic.js" />
       </list>
     </recent_temporary>
   </component>
@@ -82,6 +86,7 @@
       <workItem from="1646123656949" duration="1272000" />
       <workItem from="1646375193393" duration="1613000" />
       <workItem from="1646463767715" duration="1180000" />
+      <workItem from="1646482507110" duration="302000" />
     </task>
     <task id="LOCAL-00001" summary="0-9">
       <created>1645348189301</created>
@@ -139,7 +144,14 @@
       <option name="project" value="LOCAL" />
       <updated>1645948321407</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="test">
+      <created>1646482195880</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1646482195880</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -150,7 +162,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -163,6 +187,8 @@
     <MESSAGE value="reversedWords" />
     <MESSAGE value="ClockShow" />
     <MESSAGE value="Greeting" />
-    <option name="LAST_COMMIT_MESSAGE" value="Greeting" />
+    <MESSAGE value="test" />
+    <MESSAGE value="Revert &quot;Add files via upload&quot;&#10;&#10;This reverts commit 6bff727e" />
+    <option name="LAST_COMMIT_MESSAGE" value="Revert &quot;Add files via upload&quot;&#10;&#10;This reverts commit 6bff727e" />
   </component>
 </project>
