@@ -8,6 +8,6 @@ let humanYearsCatYearsDogYears = function (humanYears) {
     }
 }
 
-humanYearsCatYearsDogYears(1)
 humanYearsCatYearsDogYears(2)
+humanYearsCatYearsDogYears(7)
 humanYearsCatYearsDogYears(8)
