@@ -3,5 +3,5 @@ function sortArray(array) {
     return array.map(el => el % 2 ? odd.shift() : el);
 }
 
-console.log(sortArray([5, 3, 2, 8, 1, 7, 7, 4]));
+console.log(sortArray([5, 3, 2, 8, 1, 4]));
 console.log(sortArray([5, 3, 1, 8, 0]));
